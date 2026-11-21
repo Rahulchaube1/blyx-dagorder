@@ -1,0 +1,4 @@
+[package]
+name = "blyx-dagorder"
+version = "0.1.0"
+edition = "2024"
